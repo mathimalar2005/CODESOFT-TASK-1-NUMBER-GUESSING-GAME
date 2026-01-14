@@ -1,0 +1,5 @@
+{
+  "name": "Neon Guess: SFML Spirit",
+  "description": "A high-end, neon-aesthetic number guessing game with smooth scaling, screen shake, and particle effects, inspired by SFML C++ game design but built with modern React.",
+  "requestFramePermissions": []
+}

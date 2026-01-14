@@ -1,0 +1,8 @@
+************************************* Invoked: Mon Jan 12 20:06:50 2026
+[0] Arguments: C:\Users\muthu\AppData\Local\Temp\WinGet\MSYS2.MSYS2.20251213\msys2-x86_64-20251213.exe, install, --confirm-command, --root, C:\msys64
+[14] Operations sanity check succeeded.
+[16] Warning: Cannot create lock file "C:\Users\muthu\AppData\Local\Temp\msys2-x86_64-202512131234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[66] Warning: Cannot initialize cache: Cannot create lock file \"C:\\Users\\muthu\\AppData\\Local\\cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9\\cache.lock\": The process cannot access the file because it is being used by another process.\r\n (0x00000020)
+[71] Loaded control script ":/metadata/installer-config/control_js"
+[71] TargetDirectoryInUse : Error : The directory you selected already exists and contains an installation. Choose a different target for installation.
